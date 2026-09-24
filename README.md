@@ -25,4 +25,4 @@ There were no outside files utilized in this practice repository sample!
 To run this program, just open up GitHub and click on my account!
 
 ## ADDITIONAL INFORMATION ℹ️
-There is no additional information for this practice repository sample!
+There is no additional information for this practice repository sample! ~~(additional information)~~
