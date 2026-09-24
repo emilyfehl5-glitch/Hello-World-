@@ -1,4 +1,4 @@
-# Hello-World- 😄
+# Hello-World- My First Repository 😄
 My first practice repository
 
 ## TABLE OF CONTENTS 📚
@@ -10,7 +10,7 @@ My first practice repository
 6. [ADDITIONAL INFORMATION](#additional-information-)
 
 ## PROJECT TITLE ‼️
-"Hello-World Sample - My First Repository"
+"Hello-World - My First Repository"
 
 ## DESCRIPTION 📝
 Practicing on GitHub by creating a sample repository! I'm learning a lot by playing around with creating this repository!
