@@ -1,7 +1,7 @@
 # Hello-World- My First Repository 😄
-My first practice repository
+***My first practice repository***
 
-## TABLE OF CONTENTS 📚
+## <ins>TABLE OF CONTENTS</ins> 📚
 1. [PROJECT TITLE](#project-title-) 
 2. [DESCRIPTION](#description-)
 3. [TOOLS USED](#tools-used-)
